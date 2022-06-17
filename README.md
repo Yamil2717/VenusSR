@@ -8,6 +8,7 @@ La pagina web fue hecha a pedido de un grupo de Facebook y tenías las funciones
 Este código lo subo porque tengo muchos mini proyectos que no he subido pero desconozco si sigue funcionando y la verdad también es inviable continuar esto, primero porque no programo php ya y segundo porque el código de php de aquí, da miedo.
 
 #English
+
 My first really functional website, I must say that I made it with php and I didn't make it alone, I had help from YouTube at the time, but I made it work and then I added functions and more modifications, it was the first prototype website that although it was not complete and the use that was given to it, maybe was a little inappropriate, it fulfilled its purpose and although it was online only two days, we had to use 1 dedicated and 2 more basic servers (To handle the traffic) to maintain it for more than 2500 users... we had more than 50,0000 requests in less than 24 hours.
 The website was made at the request of a Facebook group and you had the most basic functions of a social network, register, login, edit profile, post photos/videos/audios or text, download content and comment (well those were the ones I managed to do).
 
